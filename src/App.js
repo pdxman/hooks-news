@@ -5,6 +5,7 @@ import Another from './Another';
 import Onemore from './Onemore';
 import Someprops from './Someprops';
 import Goldengun from './Goldengun';
+import Card from './Card';
 
 function App() {
   
@@ -16,6 +17,7 @@ function App() {
      <Onemore />
      <Someprops name="craw"/>
      <Goldengun weapon="golden" />
+     <Card />
     </div>
   );
 }
